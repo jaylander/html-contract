@@ -149,16 +149,16 @@
 
 .hero__product-name {
     /* font-size: 6rem; */
-    font-size: clamp(2rem, 5vw, 6rem);
-    line-height: clamp(2rem, 5vw, 6rem);
+    font-size: clamp(2.5rem, 5vw, 4rem);
+    line-height: clamp(2.5rem, 5vw, 4rem);
     font-weight: 200;
 }
 
 .hero__product-brand {
     color: var(--orange);
-    font-size: clamp(3rem, 5.833vw, 7rem);
+    font-size: clamp(3rem, 5.833vw, 5rem);
     /* font-size: 7rem; */
-    line-height: clamp(3rem, 5.833vw, 7rem);
+    line-height: clamp(3rem, 5.833vw, 5rem);
     font-weight: 400;
     height: auto;
 }
